@@ -1,1 +1,1 @@
-# Fun Fun Functional: Functional Programming Tutotial
+# Fun Fun Functional: Functional Programming Tutorial
